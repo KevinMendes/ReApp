@@ -1,0 +1,55 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"pretty": true,
+		"sourceMap": true,
+		"outDir": ".tmp",
+		"importHelpers": true,
+		"strict": true,
+		"noImplicitAny": false,
+		"strictNullChecks": false,
+		"noImplicitThis": true,
+		"alwaysStrict": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": false,
+		"noImplicitReturns": true,
+		"noFallthroughCasesInSwitch": true,
+		"moduleResolution": "node",
+		"baseUrl": ".",
+		"allowSyntheticDefaultImports": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true
+	},
+	"default": {
+		"compilerOptions": {
+			"target": "es6",
+			"module": "commonjs",
+			"pretty": true,
+			"sourceMap": true,
+			"outDir": ".tmp",
+			"importHelpers": true,
+			"strict": true,
+			"noImplicitAny": false,
+			"strictNullChecks": false,
+			"noImplicitThis": true,
+			"alwaysStrict": true,
+			"noUnusedLocals": true,
+			"noUnusedParameters": false,
+			"noImplicitReturns": true,
+			"noFallthroughCasesInSwitch": true,
+			"moduleResolution": "node",
+			"baseUrl": ".",
+			"allowSyntheticDefaultImports": true,
+			"experimentalDecorators": true,
+			"emitDecoratorMetadata": true,
+			"resolveJsonModule": true,
+			"esModuleInterop": true
+		}
+	},
+	"include": [
+		"src/**/*"
+	]
+}

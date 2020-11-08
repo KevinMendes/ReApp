@@ -1,0 +1,49 @@
+# @w3tec
+
+# Logs #
+/logs
+*.log
+*.log*
+*.mmd
+# Node files #
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+.tmp/
+src/api/schema.gql
+
+# Typing #
+typings/
+
+# Dist #
+dist/
+tsconfig.build.json
+
+# IDE #
+.idea/
+*.swp
+.awcache
+.prettierrc
+
+# Generated source-code #
+src/**/*.js
+src/**/*.js.map
+!src/public/**/*
+test/**/*.js
+test/**/*.js.map
+coverage/
+!test/preprocessor.js
+mydb.sql
+nohup.out
+
+data/
+
+pnpm-lock.yaml
+yarn.lock
+
+#scripts
+mongo_config/start_mongo.sh
