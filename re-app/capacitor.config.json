@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ReApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "linuxAndroidStudioPath": "/home/mzzc/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-1/202.6847140/bin/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

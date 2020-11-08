@@ -1,0 +1,7 @@
+{
+  "name": "ReApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
